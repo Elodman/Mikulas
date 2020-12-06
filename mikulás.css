@@ -1,0 +1,100 @@
+div {border: 2px solid black}
+
+#fej {position: absolute;
+    width: 150px;
+    height: 100px;
+    background-color: rgb(58, 41, 20);
+    left: 75px;
+    top: 200px;
+    border-radius: 0% 0% 50% 40%;}
+
+#sapi {position: absolute;
+    left: 75px;
+    top: 80px;
+    width: 0px;
+    height: 0px;
+    border-bottom: 150px solid red;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent ;}
+
+#mikulás {width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    color: green;
+    text-align: center;
+    font-size: large;}
+
+#sapi2 {position: absolute;
+    border-bottom: 60px solid red;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    transform: rotate(62deg);
+    left: 160px;
+    top: 64px;}
+
+#bojt {width: 40px;
+    height:40px ;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 200px;
+    top: 80px;
+    z-index: 1;}
+
+#prém {background-color: white;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    left: 75px;
+    top: 200px;
+    z-index: 1;
+    border-radius: 10%;}
+
+#szem {width: 30px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;  
+    background-color: white;
+    margin-left: 10px;
+    position: absolute;
+    top: 30px;}
+
+#szem2 {width: 30px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;  
+    background-color: white;
+    margin-left: 10px;
+    position: absolute;
+    top: 30px;
+    right: 100px;}
+
+#feketeszem {width: 10px;
+        height: 10px;
+        background-color: black;
+        border-radius: 50%;
+        margin-left: 10px;
+        margin-top: 3px;}
+
+#szakáll {width: 150px;
+        height: 150px;
+        background-color: rgb(62, 204, 86);
+        border-radius: 20% 20% 50% 50%;
+        position: absolute;
+        left: 75px;
+        top: 270px;}
+
+        #feketeszem2 {width: 10px;
+            height: 10px;
+            background-color: black;
+            margin: auto;
+            border-radius: 50%;
+            position: absolute;
+            bottom: 162px;
+            left: 90px}
+    
